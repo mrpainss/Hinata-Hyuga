@@ -554,7 +554,7 @@ Hai ${pushname} silahkan dipilih list menu dibawah ini.
   *🙏 Thanks To*
   ✎ Dika Ardnt
   ✎ Fatih Arridho
-  ✎ Nurutomo
+  ✎ Dimas Sh
   ✎ Mhankbarbar
   ✎ Zeeone Ofc
   ✎ Ryuka Team
@@ -580,7 +580,7 @@ Sanksi : *Warn/Soft Block 🚧*
 🤖 : Mohon Bersabar, Mungkin Kendala Dari Jaringan, Signal, Atau Bahkan Terbanned Dari Pihak WhatsApp
 
 👦 : Scriptnya Beli Dimana? 😁
-🤖 : Script Ini Tidak Di Perjualbelikan Karena Script Ini Dibagikan Secara Free. Kalian Bisa Mendapatkannya Di Channel Ryuuka Botz
+🤖 : Script Ini Tidak Di Perjualbelikan Karena Script Ini Dibagikan Secara Free. Kalian Bisa Mendapatkannya Di GC Kami
 
 👦 : Boleh Masukin Ke Grup Saia Tidak? 😁
 🤖 : Untuk Masalah Memasukkan Bot Ke Dalam Grup Bisa Menghubungi Owner
