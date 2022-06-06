@@ -1216,7 +1216,7 @@ Semoga Kamu Senang Berada Disini Serta Jangan Lupa Untuk Membaca Dan Mematuhi Ru
   return`  *🙏 Thanks To*
   ✎ Dika Ardnt
   ✎ Fatih Arridho
-  ✎ Nurutomo
+  ✎ Dimas Sh
   ✎ Mhankbarbar
   ✎ Zeeone Ofc
   ✎ Ryuka Team
