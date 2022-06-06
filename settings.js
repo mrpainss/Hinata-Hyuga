@@ -30,7 +30,7 @@
   global.packname = '© Ongges-MD' // Sticker Weem
   global.author = 'Dimas-SH' // Sticker Weem
   global.webme = 'https://saweria.co/dImaSsh' // Ganti Sama Web Mu
-  global.linkgroup = 'https://chat.whatsapp.com/HZhLynp6E9QKNrRFtUp26T' // Ganti Sama Link Gc Mu
+  global.linkgroup = 'https://chat.whatsapp.com/BkGqBIZp14yHHiWC00mrca' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
   global.youtube = 'https://youtube.com/c/DimasshF' // Ganti Sama Link Yt Mu
   global.github = 'https://github.com/mrpainss' // Ganti Sama Link Github Mu
