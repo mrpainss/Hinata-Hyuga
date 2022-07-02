@@ -23,7 +23,7 @@
   global.prefa = ['','.','/','#']
 
   // Other
-  global.ownername = 'DimasSh' // Ganti Jadi Namamu
+  global.ownername = 'Dimas' // Ganti Jadi Namamu
   global.owner = ['6281239413351','0','0'] // Kalo Mau Lebih Tambahin Aja
   global.ownernomer = '6281239413351' // Owner Utama Istilahnya
   global.botname = 'Ongges-MD' // Ganti Jadi Nama Botmu
